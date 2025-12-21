@@ -1,2 +1,2 @@
 This is a Repository created to practice and revise Python
-It references Dr. Angela Yu's course: 100 Days of Code for Python Programming on Udemy.
+It references Dr. Angela Yu's course: 100 Days of Code for Python Programming on Udemy, and some Python resources from Datacamp for the practice.
