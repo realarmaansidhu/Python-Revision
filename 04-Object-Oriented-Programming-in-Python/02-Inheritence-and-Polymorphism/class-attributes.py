@@ -48,7 +48,7 @@ print("MAX_SPEED of Player:")
 # Print Player.MAX_SPEED
 print(Player.MAX_SPEED)
 
-# Updated Python Code to implement a Racer Class inheriting Class Attributes from the Player Class
+# Updated Python Code to implement Inheritence of CLass Attributes through a Racer Class inheriting from the Player Class.
 
 # Create a Racer class and set MAX_SPEED to 5
 class Racer(Player):
